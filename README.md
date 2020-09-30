@@ -43,7 +43,7 @@ To swap every pair of alternate elements in the array.
 # [14 Terms_of_AP](Terms_of_AP.java)
 To print first x terms of the series 3N + 2 which are not multiples o…
 
-# [15 pallindrome](pallindrome.java)
+# [15 palindrome Number](pallindrome.java)
 Find Whether Given Number Is Pallindrome or not
 
 # [16 Fibonacci Series](Fibonacci.java)
